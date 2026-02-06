@@ -89,7 +89,39 @@ This notebook replaces manual feature engineering with **learned word embeddings
 | TF-IDF + Logistic Regression | Sparse statistical features | ~88% |
 | TensorFlow Neural Network | Learned embeddings | ~81% |
 
+
 ---
 
-## 📁 Repository Structure
+## ✅ Key Takeaways
+
+- TF-IDF with linear models remains a strong NLP baseline
+- Deep learning models learn semantic representations automatically
+- Neural networks scale better for large and complex datasets
+- The project highlights trade-offs between interpretability and flexibility
+
+---
+
+## 🚀 Future Improvements
+
+- CNN-based text classifiers
+- LSTM / Bi-LSTM architectures
+- Transformer models (BERT)
+- Hyperparameter tuning
+- Confusion matrix & detailed error analysis
+
+---
+
+## 🧪 Requirements
+
+- Python 3.x
+- scikit-learn
+- TensorFlow
+- NumPy
+- Jupyter Notebook / Google Colab
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
 
